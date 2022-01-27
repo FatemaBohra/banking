@@ -7,4 +7,4 @@
 * Represents a checking/savings bank account for customer.
 
 3. Customer file-
-*  Represents a customer of a bank.
+*  Represents a customer of a bank
